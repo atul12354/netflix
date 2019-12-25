@@ -14,9 +14,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
-__author__ = "Alan Levy"
-__email__ = "alevy@cintainfinita.com"
-__license__ = "GPL"
+__author__ = "Atul"
+__email__ = "atulgouda12@gmail.com"
 
 ##########################################SETEAR RUTA DE ARCHIVO DE USUARIOS/CLAVES#######################################
 
